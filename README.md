@@ -38,3 +38,17 @@ Setup :
   For using this network, create a txt file with with the names of images and path. Put image labelled image into a folder with the name set to the label. Run the data processing code, which creates .npy file of the processed data. Run the data initializing code, and then the network. 
   
  
+ 
+ Sources : 
+ 
+ Speech Commands Data Set v0.02
+Citation:
+Warden P (2018) Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition. arXiv:1804.03209 [cs.CL]
+Retrieved from http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+
+License:
+The dataset is licensed under Creative Commons BY 4.0 license.
+
+Original dataset: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+License file: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/core/platform/default/LICENSE
+
