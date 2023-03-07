@@ -23,12 +23,15 @@ Dense network has 4096 nodes to capture all the features from the flattened conv
 
 Results : 
       This network hardly encountered overfitting. Dropout of 0.2 on all the layers produced higher test accuracy with less epochs. 
+      
       ![CustomCNN](https://user-images.githubusercontent.com/60317553/223285418-06d4827d-b2fb-4c4e-9b31-6f65f78629c8.png)
 
 
 2. Resnet CNN Network 
 
 Unlike the custom CNN, the kernel size of the first convolutional layer is (11,11) and the kernel size drops out as we go through the layers. This allows compression of features as the image passes through the network. This network also produced high validation accuracy with lower epochs and also used less GPU power.
+
+
 ![download](https://user-images.githubusercontent.com/60317553/223285702-9f8b286b-5b12-4531-87e0-a8b7dca82d1b.png)
 
 Setup : 
