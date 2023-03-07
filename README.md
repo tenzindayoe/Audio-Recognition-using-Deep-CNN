@@ -24,7 +24,7 @@ Dense network has 4096 nodes to capture all the features from the flattened conv
 Results : 
       This network hardly encountered overfitting. Dropout of 0.2 on all the layers produced higher test accuracy with less epochs. 
       
-    ![CustomCNN](https://user-images.githubusercontent.com/60317553/223286103-78ae1491-74de-4f2e-822f-54f0d5aa894f.png)
+   ![CustomCNN](https://user-images.githubusercontent.com/60317553/223286103-78ae1491-74de-4f2e-822f-54f0d5aa894f.png)
 
 
 2. Resnet CNN Network 
